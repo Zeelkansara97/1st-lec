@@ -1,0 +1,13 @@
+welcome = input ( "hello friend, enter your name: ")
+print ( "welcome", welcome + "!" )
+var1 = int(input("Enter the first value: "))
+var2 = float(input("Enter the second value: "))
+result = var1 + var2
+print ("addition =", result)
+result = var1 - var2
+print ("subtraction =", result)
+result = var1 * var2
+print ("multiplication =", result)
+result = var1/var2
+print ("division =", result)
+print("Thank you")
